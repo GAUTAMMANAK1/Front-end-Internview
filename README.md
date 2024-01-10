@@ -4,11 +4,12 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 I am learning 5 questions a day and will add those 5 questions a day in this repo till day 100 days.<br>
 
-connect with me on [LinkedIn](https://www.linkedin.com/in/gautammanak1).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gautammanak1).👍
+Check My latest [portfolio](https://gautammanak.vercel.app/) 
 
 <b>I've also added some tables, no need to memorize them, just take a look at them a few times and you'll easily be able to answer those concepts if asked in the interview.</b>
 
-`Source of the questions: Google, ChatGPT, Github repos, etc`
+`Source of the questions: Google, ChatGPT, Github repos, and My interview Experience, etc`
 
 ---
 
