@@ -2,7 +2,9 @@
 
 This repo will contain 500 frontend interview questions which will have HTML, CSS, Javascript & React questions. I will add not any questions in which we have to write code, just theory questions.
 
-I am learning 5 questions a day and will add those 5 questions a day in this repo till day 100 days. I'll be posting those 5 questions on social media too so if you want to see the 5 questions daily in your social media feed, connect with me on [LinkedIn](https://www.linkedin.com/in/gautammanak1).
+I am learning 5 questions a day and will add those 5 questions a day in this repo till day 100 days.<br>
+
+connect with me on [LinkedIn](https://www.linkedin.com/in/gautammanak1).
 
 <b>I've also added some tables, no need to memorize them, just take a look at them a few times and you'll easily be able to answer those concepts if asked in the interview.</b>
 
